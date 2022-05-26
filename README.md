@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, my name is Akira. Thank you for visiting my GitHub page!
+
+Welcome to my GitHub page! I am a data scientist with a primary interest in machine learning and the underlying mathematics and statistics.
+
+Please check back regularly, as I will be updating my content to reflect my studies and development in the field of data science.
 
 <!--
 **akitak/akitak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
